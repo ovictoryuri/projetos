@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vyfx
 - 👀 I’m interested in Physics and programming...
-- 🌱 I’m currently learning some tools to be a web developer...
+- 🌱 I’m currently learning some tools to be a developer and a nice researcher
 
 
 <!---
